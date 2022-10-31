@@ -1,0 +1,145 @@
+.header{
+    display: flex;
+}
+.banner{
+    width:1170px;
+     
+}
+.container{
+    width: 1170px;
+    margin: 100px;;
+    }
+    .image{
+        width:130px;
+        margin-left: 30px;
+        margin-bottom: 20px;        
+    }
+.mshobeli{
+    margin-top:  20px;
+     display: flex;
+     justify-content: space-evenly;
+     align-items: flex-start;
+     flex-direction: row;
+    
+    }
+
+    .flex-container {
+        display: flex;
+        flex-direction: row;
+        margin-right: 20px;
+        font-size: 9px;
+        vertical-align: middle;
+        justify-content: flex-start;
+        width: 100%;
+        
+    }
+    .menuItem{
+        margin-left: 100px;
+    }
+    .mydiv{
+            font-size:45px;
+            color:black;
+            position: absolute;
+            text-align: center;
+            left: 600px;
+            top:50%;
+            transform:translate(-50%, -50%)
+           
+           }
+           .mydivv{
+             font-size: 10px;
+             color: black;
+             position: absolute;
+             text-align: center;
+             left: 600px;
+             top: 60%;
+             transform:translate(-50%, -50%)
+
+           }
+           .mydiv:hover{
+            border: 1.5px solid blue;
+
+           }
+
+
+           .mydivv:hover{
+            border: 1.5px solid blue;
+
+           }
+           .p1{
+            font-size: 9px;
+            color:gray;
+            margin:30px;
+
+           }
+           .p1:hover{
+            border: 1.3px solid rgb(98, 98, 163);
+
+           }
+        .p2:hover{
+            border: 1.5px solid blue;
+
+        }
+
+        .p3{
+            display: inline-block;
+             color: gray;
+            font-size: 10px;
+        }
+
+        .images{
+            display: inline-block;
+            padding: auto;
+
+        }
+        
+
+.images{
+    display: flex;
+    justify-content: space-be;
+    margin-left:200px;
+    margin-top: 1px;
+}
+
+.imagess{
+    display: flex;
+    justify-content: first baseline;
+    margin-left:30px ;
+}
+
+.imagesss{
+    display: flex;
+    justify-content: first baseline;
+    margin-left:30px ;
+}
+
+.sataurebi{
+    display: inline-block;
+    justify-content: first baseline;
+    margin-left: 180px;
+}
+.sataurebi:hover{
+    border: 1.5px solid blue;
+    border-radius:20px ;
+
+}
+
+.teqstebi{
+    display: inline-flex;
+    font-size:11px;
+    justify-content: first baseline;
+    margin-left: 180px;
+    color: gray;
+    
+}
+
+
+.teqstebi:hover{
+    border: 1.5px solid blue;
+    border-radius:35px; 
+}
+
+   
+   
+
+   
